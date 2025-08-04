@@ -102,7 +102,7 @@ npm start
 
 | Home Page | Cart Page |
 |-----------|-----------|
-| ![Home](https://user-images.githubusercontent.com/7683657/246858573-7e7e6e7f-9e6c-4e3e-9e2a-7e8e8e8e8e8e.gif) | ![Cart](https://user-images.githubusercontent.com/7683657/246858573-7e7e6e7f-9e6c-4e3e-9e2a-7e8e8e8e8e8e.gif) |
+| ![Home](shopping cart ui.jpeg)| ![Cart](https://user-images.githubusercontent.com/7683657/246858573-7e7e6e7f-9e6c-4e3e-9e2a-7e8e8e8e8e8e.gif) |
 
 ---
 
