@@ -95,7 +95,8 @@ npm start
 ## ✨ UI Preview
 
 <p align="center">
-![shopping cart ui](https://github.com/user-attachments/assets/4fb033af-016e-4809-a0b5-c697aa26ad02)
+![shopping cart ui](https://github.com/user-attachments/assets/01eb4d70-37e1-4267-a6f5-420e265a932a)
+
 </p>
 
 ---
