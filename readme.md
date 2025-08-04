@@ -59,11 +59,6 @@ Shopping-Cart/
 
 ---
 
-## ✨ UI Preview
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/7683657/246858573-7e7e6e7f-9e6c-4e3e-9e2a-7e8e8e8e8e8e.gif" alt="Shopping Cart Demo" width="700"/>
-</p>
 
 ---
 
@@ -97,24 +92,14 @@ npm start
 - **View Cart:** Click the cart icon in the navbar to see your selected items.
 
 ---
+## ✨ UI Preview
 
-## 🖼️ Screenshots
-
-| Home Page | Cart Page |
-|-----------|-----------|
-| ![Home](shopping cart ui.jpeg)| ![Cart](https://user-images.githubusercontent.com/7683657/246858573-7e7e6e7f-9e6c-4e3e-9e2a-7e8e8e8e8e8e.gif) |
-
----
-
-## 🤝 Contributing
-
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/7683657/246858573-7e7e6e7f-9e6c-4e3e-9e2a-7e8e8e8e8e8e.gif" alt="Shopping Cart Demo" width="700"/>
+</p>
 
 ---
 
-## 📄 License
-
-This project is [MIT](LICENSE) licensed.
 
 ---
 
