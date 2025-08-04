@@ -4,6 +4,10 @@
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/7683657/246858573-7e7e6e7f-9e6c-4e3e-9e2a-7e8e8e8e8e8e.gif" alt="Shopping Cart Animation" width="400"/>
+    <img src="https://github.com/user-attachments/assets/847791ff-5b2f-44eb-950d-71bf94cb81ea" alt="Shopping Cart Animation" width="400"/>
+  ![shopping-cart ui]()
+
+  
 </p>
 
 <p align="center">
