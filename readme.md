@@ -99,7 +99,7 @@ npm start
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/01eb4d70-37e1-4267-a6f5-420e265a932a" </img>
-<img src="https://github.com/user-attachments/assets/847791ff-5b2f-44eb-950d-71bf94cb81ea" alt="Shopping Cart Animation" width="400"/>
+<img src="https://github.com/user-attachments/assets/847791ff-5b2f-44eb-950d-71bf94cb81ea" alt="Shopping Cart Animation" />
 
 </p>
 
